@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
+
+/*Aqui comienza la parte 1 by:Estrella*/
+#hero {
+    padding-top: 23px;
+}
+
+#navbar {
+    width: 1152px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+}
+
+#menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu_bar {
+    list-style: none;
+    display: flex;
+}
+
+.menu_link {
+    color: #222;
+    font-size: 16px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-decoration: none;
+    padding: 9px 24px;
+}
+
+.menu_link:hover {
+    color: #FF7235;
+}
+
+.sign_up_button {
+    padding: 9px 36px;
+    border: 1px solid #FF7235;
+    border-radius: 8px;
+    color: #FF7235;
+    text-decoration: none;
+    margin-left: 160px;
+    height: 20px;
+    display: block;
+
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 95%;
+}
+
+#parrafo1{
+    position: absolute;
+    width: 540px;
+    height: 288px;
+    left: 165px;
+    top: 120px; 
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+    color: #292830;
+}
+
+#parrafo2{
+    position: absolute;
+    width: 540px;
+    height: 39px;
+    left: 165px;
+    top: 500px; 
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+
+    color: #BDBDBD;
+}
+
+#parrafo3{
+    position: absolute;
+    width: 249px;
+    height: 39px;
+    left: 400px;
+    top: 590px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    color: #BDBDBD;
+}
+
+#hm{
+    position: absolute;
+    left: 51.04%;
+    right: 11.58%;
+    top: 30%;
+    bottom: 23.44%;
+}
+
+.try_demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    position: absolute;
+    width: 225px;
+    height: 75px;
+    left: 165px;
+    top: 600px;
+    background: #FF7235;
+    border-radius: 8px;
+
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    color: white;
+}
+
+/*Aqui comienza la parte 2 by:?*/ 
