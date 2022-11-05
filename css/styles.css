@@ -128,4 +128,70 @@
     color: white;
 }
 
-/*Aqui comienza la parte 2 by:?*/ 
+/*Aqui comienza la parte 2 by:robert?*/ 
+
+#overview01{
+    position: absolute; 
+    width: 110px;
+    height: 625px;
+    left: 150px;
+    top: 807px;
+}
+
+#overview02{
+    position: absolute; 
+    width: 100px;
+    height: 200px;
+    left: 0px;
+    top: 720px;
+    z-index: -2;
+}
+
+#overviewC01{
+    position: absolute; 
+    width: 100px;
+    height: 200px;
+    left: 0px;
+    top: 720px;
+    z-index: -1;
+}
+
+#overviewA01{
+    position: absolute; 
+    width: 100px;
+    height: 100px;
+    left: 150px;
+    top: 1500px;
+}
+
+#overviewA02{
+    position: absolute; 
+    width: 100px;
+    height: 100px;
+    left: 400px;
+    top: 1500px;
+}
+
+#overviewA03{
+    position: absolute; 
+    width: 100px;
+    height: 100px;
+    left: 630px;
+    top: 1500px;
+}
+
+#overviewA04{
+    position: absolute; 
+    width: 100px;
+    height: 100px;
+    left: 850px;
+    top: 1500px;
+}
+
+#overviewA05{
+    position: absolute; 
+    width: 100px;
+    height: 100px;
+    left: 1100px;
+    top: 1510px;
+}
