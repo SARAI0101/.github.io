@@ -646,3 +646,33 @@
     border: 1px solid #FF7235;
     border-radius: 6px;
 }
+
+/*Aqui comienza la parte 8 by:Estrella*/
+
+#testimonial{
+    position: absolute;
+    width: 920px;
+    height: 192px;
+    left: 210px;
+    top: 5600px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+    text-align: center;
+    color: #292830;
+}
+
+#testimonial1{
+    position: absolute;
+    left: 0px;
+    top: 6000px;
+}
+
+#testimonial2{
+    position: absolute;
+    left: 650px;
+    top: 6300px;
+}
