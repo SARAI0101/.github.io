@@ -676,3 +676,82 @@
     left: 650px;
     top: 6300px;
 }
+
+/*Aqui comienza la parte 9 by:Cezane*/
+
+#banner3{
+    position: absolute;
+    width: 1440px;
+    height: 750px;
+    left: 0px;
+    top: 6500px;
+    z-index: -2;
+    opacity: 0.8;
+}
+
+#banner1{
+    position: absolute;
+    width: 920px;
+    height: 144px;
+    left: 260px;
+    top: 6600px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 100%;
+    
+    /* or 72px */
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+#banner2{
+
+    position: absolute;
+    width: 920px;
+    height: 36px;
+    left: 260px;
+    top: 6800px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 100%;
+    
+    /* identical to box height, or 36px */
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+#banner4{
+    position: absolute;
+    width: 1295px;
+    height: 340.23px;
+    left: 30px;
+    top: 6850px;
+    z-index: -1;
+}
+
+.banner_bottom{
+    position: absolute;
+    top: 6950px;
+    left: 620px;
+
+    padding: 8px 20px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FF7235;
+    text-decoration: none;
+    
+    background: white;
+    border: 1px solid #FF7235;
+    border-radius: 16px;
+}
