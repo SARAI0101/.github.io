@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
 
 /*Aqui comienza la parte 1 by:Estrella*/
 #hero {
@@ -427,4 +427,130 @@
     height: 100px;
     left: 770px;
     top: 3260px;
+}
+
+/*Aqui comienza la parte 6 by:Robert*/
+
+#product{
+    position: absolute;
+    width: 700px;
+    height: 150px;
+    left: 165px;
+    top: 3900px;
+    font-family: 'Hind Siliguri';
+    font-weight: 700;
+    font-size: 96px;
+    color: #292830;
+}
+
+#lorem{
+    position: absolute;
+    width: 350px;
+    height: 156px;
+    left: 925px;
+    top: 4020px; 
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    color: #BDBDBD;
+}
+
+.plataform1{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 300px;
+    top: 4400px;
+}
+
+.plataform2{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 700px;
+    top: 4400px;
+}
+
+.plataform3{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1100px;
+    top: 4400px;
+}
+
+.titulo1{
+    position: absolute;
+    width: 191px;
+    height: 30px;
+    left: 220px;
+    top: 4450px;
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 30px;
+    color: #292830;
+}
+
+.titulo2{
+    position: absolute;
+    width: 191px;
+    height: 30px;
+    left: 640px;
+    top: 4450px;
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 30px;
+    color: #292830;
+}
+
+.titulo3{
+    position: absolute;
+    width: 250px;
+    height: 30px;
+    left: 1020px;
+    top: 4450px;
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 30px;
+    color: #292830;
+}
+
+.lorem1{
+    position: absolute;
+    width: 230px;
+    height: 46px;
+    left: 200px;
+    top: 4530px;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BDBDBD;
+    text-align: center;
+}
+
+.lorem2{
+    position: absolute;
+    width: 230px;
+    height: 46px;
+    left: 620px;
+    top: 4530px;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BDBDBD;
+    text-align: center;
+}
+
+.lorem3{
+    position: absolute;
+    width: 230px;
+    height: 46px;
+    left: 1005px;
+    top: 4530px;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    color: #BDBDBD;
+    text-align: center;
 }
