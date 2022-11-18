@@ -357,3 +357,74 @@
     left: 150px;
     top: 2500px;
 }
+
+/*Aqui comienza la parte 5 by:Cezane*/
+
+#dialogouno{
+    position: absolute;
+    width: 540px;
+    height: 22px;
+    left: 165px;
+    top: 3150px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 100%;
+    text-transform: uppercase;
+    color: #BDBDBD;
+}
+
+#dialogodos{
+    position: absolute;
+    width: 540px;
+    height: 288px;
+    left: 165px;
+    top: 3150px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100%;
+    color: #292830;
+}
+
+#dialogotres{
+    position: absolute;
+    width: 540px;
+    height: 117px;
+    left: 165px;
+    top: 3550px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    color: #BDBDBD;
+}
+
+#buttomdos{
+    position: absolute;
+    width: 152px;
+    height: 24px;
+    left: 165px;
+    top: 3725px;
+}
+
+.bottom_dos{
+    color: #FF7235;
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-decoration: none; 
+}
+
+#imagendos{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 770px;
+    top: 3260px;
+}
