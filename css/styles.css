@@ -554,3 +554,95 @@
     color: #BDBDBD;
     text-align: center;
 }
+
+/*Aqui comienza la parte 7 by:Estrella*/
+#planes1{
+    position: absolute;
+    width: 1110px;
+    height: 72px;
+    left: 165px;
+    top: 4800px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 100%;
+    text-align: center;
+    color: #292830;
+}
+
+#planes2{
+    position: absolute;
+    left: 165px;
+    top: 5050px;
+}
+
+#planes3{
+    position: absolute;
+    left: 570px;
+    top: 5050px;
+}
+
+#planes4{
+    position: absolute;
+    left: 980px;
+    top: 5050px;
+}
+
+.planes_button1{
+    position: absolute;
+    top: 5400px;
+    left: 150px;
+
+    padding: 8px 20px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FF7235;
+    text-decoration: none;
+    
+    background: white;
+    border: 1px solid #FF7235;
+    border-radius: 6px;
+}
+
+.planes_button2{
+    position: absolute;
+    top: 5400px;
+    left: 570px;
+
+    padding: 8px 20px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+    text-decoration: none;
+    
+    background: #FF7235;
+    border: 1px solid #FF7235;
+    border-radius: 6px;
+}
+
+.planes_button3{
+    position: absolute;
+    top: 5400px;
+    left: 980px;
+
+    padding: 8px 20px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FF7235;
+    text-decoration: none;
+    
+    background: white;
+    border: 1px solid #FF7235;
+    border-radius: 6px;
+}
