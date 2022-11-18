@@ -755,3 +755,211 @@
     border: 1px solid #FF7235;
     border-radius: 16px;
 }
+
+/*Aqui comienza la parte 10 by:Estrella*/
+
+#iconox{
+    position: absolute;
+    left: 107px;
+    top: 7330px;
+}
+
+.menu1{
+    position: absolute;
+    left: 420px;
+    top: 7300px;
+    list-style: none;
+}
+
+.links1{
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 24px;
+    color: #292830;
+}
+
+.menufinal{
+    width: 100px;
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 18px;
+    color: #292830; 
+    text-decoration: none;
+}
+
+.menufinal:hover{
+    color: #f09206;
+}
+
+.menu2{
+    position: absolute;
+    left: 600px;
+    top: 7300px;
+    list-style: none;
+}
+
+.legal1{
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 24px;
+    color: #292830;
+}
+
+.menufinal2{
+    width: 100px;
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 18px;
+    color: #292830; 
+    text-decoration: none;
+}
+
+.menufinal2:hover{
+    color: #f09206;
+}
+
+#new{
+    position: absolute;
+    width: 204px;
+    height: 23px;
+    left: 900px;
+    top: 7360px;
+    color: #292830;
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 24px;
+    z-index: 2;
+}
+
+#over{
+    position: absolute;
+    width: 400px;
+    height: 23px;
+    left: 900px;
+    top: 7420px;
+    color: #BDBDBD;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 20px;
+    z-index: 2;
+}
+
+#we{
+    position: absolute;
+    width: 400px;
+    height: 23px;
+    left: 900px;
+    top: 7520px;
+    color: #BDBDBD;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    z-index: 2;
+}
+
+.content-sub{
+    position: absolute;
+    left: 900px;
+    top: 7480px;
+    z-index: 1;
+}
+.content-sub form{
+    width: 100%;
+    max-width: 440px;
+    display: flex;
+}
+
+.content-sub form .campo{
+    width: 349px;
+    height: 45px;
+    font-size: 16px;
+    border: 1px solid #fc8f00;
+    border-radius: 8px 8px 8px 8px;
+    outline: 0px;
+    font-family: 'Nunito';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+
+.content-sub form .btn-sub{
+    width: 102px;
+    height: 48px;
+    border: 1px solid #fc8f00;
+    font-size: 16px;
+    border-radius: 8px 8px 8px 8px;
+    background:#fc8f00;
+    color: #FFFFFF;
+    cursor: pointer;
+    outline: 0px;
+    font-family: 'Nunito';
+    font-weight: 400;
+    font-size: 16px;
+}
+.content-sub form .btn-sub:hover{
+    background: #ffdc84;
+}
+
+#xpensee1{
+    position: absolute;
+    width: 200px;
+    height: 16px;
+    left: 100px;
+    top: 7700px;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    color: #292830;
+}
+
+#xpensee2{
+    position: absolute;
+    width: 200px;
+    height: 16px;
+    left: 250px;
+    top: 7700px;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    color: #292830;
+}
+
+#xpensee3{
+    position: absolute;
+    width: 200px;
+    height: 16px;
+    left: 630px;
+    top: 7700px;
+    font-family: 'Hind Siliguri';
+    font-weight: 400;
+    font-size: 14px;
+    color: #292830;
+}
+
+.iconos{
+    text-decoration: none;
+    list-style: none;
+}
+
+.icono1{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1100px;
+    top: 7715px;
+}
+
+.icono2{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1150px;
+    top: 7715px;
+}
+.icono3{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1200px;
+    top: 7715px;
+}
